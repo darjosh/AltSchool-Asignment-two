@@ -6,7 +6,7 @@ const Home = () => {
       <div className='home-container'>
         <div className='home-setting'>
         Hey there, 
-        <div style={{fontSize: '4rem'}}>Welcome Home</div>
+        <div style={{fontSize: '4rem'}}>This is the welcome Home page's instructin in the atmosphere of Grace</div>
         </div>
       </div>
    
